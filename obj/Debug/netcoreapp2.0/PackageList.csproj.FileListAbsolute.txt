@@ -1,0 +1,10 @@
+C:\Users\Frode\work\packageHandling\PackageList\bin\Debug\netcoreapp2.0\PackageList.deps.json
+C:\Users\Frode\work\packageHandling\PackageList\bin\Debug\netcoreapp2.0\PackageList.runtimeconfig.json
+C:\Users\Frode\work\packageHandling\PackageList\bin\Debug\netcoreapp2.0\PackageList.runtimeconfig.dev.json
+C:\Users\Frode\work\packageHandling\PackageList\bin\Debug\netcoreapp2.0\PackageList.dll
+C:\Users\Frode\work\packageHandling\PackageList\bin\Debug\netcoreapp2.0\PackageList.pdb
+C:\Users\Frode\work\packageHandling\PackageList\obj\Debug\netcoreapp2.0\PackageList.csproj.CoreCompileInputs.cache
+C:\Users\Frode\work\packageHandling\PackageList\obj\Debug\netcoreapp2.0\PackageList.AssemblyInfoInputs.cache
+C:\Users\Frode\work\packageHandling\PackageList\obj\Debug\netcoreapp2.0\PackageList.AssemblyInfo.cs
+C:\Users\Frode\work\packageHandling\PackageList\obj\Debug\netcoreapp2.0\PackageList.dll
+C:\Users\Frode\work\packageHandling\PackageList\obj\Debug\netcoreapp2.0\PackageList.pdb
